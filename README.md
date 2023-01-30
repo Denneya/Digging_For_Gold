@@ -23,7 +23,7 @@ By producing a line plot of all scenarios on the same graph, it was evident that
 ![column graph](https://github.com/Denneya/Digging_For_Gold/blob/main/Screenshot%202023-01-30%20at%205.59.26%20pm.png)
 
 ## Final Comments
-This task was very open to interpretation, which almost made it harder to begin. There are many strategies/options that could've been taken, however I chose to stick with the four options outlined above. In hindsight, I really enjoyed this project and hope you enjoyed reading. For more information on Monte Carlo Simulations, I found this ![website](https://www.investopedia.com/terms/m/montecarlosimulation.asp) explained it well.
+This task was very open to interpretation, which almost made it harder to begin. There are many strategies/options that could've been taken, however I chose to stick with the four options outlined above. In hindsight, I really enjoyed this project and hope you enjoyed reading. For more information on Monte Carlo Simulations, I found this [website](https://www.investopedia.com/terms/m/montecarlosimulation.asp) explained it well.
 
 Thank you for reading!
 
