@@ -15,7 +15,7 @@ To begin, the basic calculations had to be figured out over the five years in or
 
 ## Step 2: Decision Tree 🌳
 For me, the first decision to make was to either delay or resolve the legal case. Different scenarios were outlined depending on this decision, and a Monte Carlo Simulation was run for each year depending on whether or not a future claim was successful/if the legal case was resolved in favour of the company. The scenarios I outlined can be seen in the decision tree below:
-![decision tree](https://github.com/Denneya/Digging_For_Gold/blob/main/Decision%20Tree.drawio.pdf)
+![decision tree](https://github.com/Denneya/Digging_For_Gold/blob/main/Decision%20Tree.drawio.png)
 
 ## Step 3: Decide on a Scenario and Support with Visuals 📊
 By producing a line plot of all scenarios on the same graph, it was evident that they would all end up reaching around the same amount of profit at the end of the 5 years. To me, it was clear that I would recommend the scenario which has the least amount of risk and therefore chose Scenario 1. This could easily turn into Scenario 2 if the company were successful in acquiring a future claim. The line plot below shows the growth of each scenario (except for Scenario 4 which loses the legal case). The column graph below that compares Scenario's 1 & 2, the only different being Scenario 2 acquaries a future claim in year 2. 
