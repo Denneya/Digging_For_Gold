@@ -14,7 +14,7 @@ To begin, the basic calculations had to be figured out over the five years in or
 ![original data](https://github.com/Denneya/Digging_For_Gold/blob/main/Screenshot%202023-01-30%20at%205.46.12%20pm.png)
 
 ## Step 2: Decision Tree 🌳
-For me, the first decision to make was to either delay or resolve the legal case. Different scenarios were outlined depending on this decision, and a Monte Carlo Simulation was run for each year depending on whether or not a future claim was successful/if the legal case was resolved in favour of the company. The scenarios I outlined can be seen in the decision tree below:
+For me, the first decision to make was to either delay or resolve the legal case. Different scenarios were outlined depending on this decision, and a Monte Carlo Simulation was run, executing 1000 simulations for each year depending on whether or not a future claim was successful/if the legal case was resolved in favour of the company. This produced probabilities of the company's income being a particular amount. The scenarios I outlined can be seen in the decision tree below:
 ![decision tree](https://github.com/Denneya/Digging_For_Gold/blob/main/Decision%20Tree.drawio.png)
 
 ## Step 3: Decide on a Scenario and Support with Visuals 📊
@@ -22,7 +22,13 @@ By producing a line plot of all scenarios on the same graph, it was evident that
 ![line plot](https://github.com/Denneya/Digging_For_Gold/blob/main/Screenshot%202023-01-30%20at%205.58.26%20pm.png)
 ![column graph](https://github.com/Denneya/Digging_For_Gold/blob/main/Screenshot%202023-01-30%20at%205.59.26%20pm.png)
 
-
 ## Final Comments
-This task was very open to interpretation, which almost made it harder to begin. There are many strategies/options that could've been taken, however I chose to stick with the four options outlined above. 
+This task was very open to interpretation, which almost made it harder to begin. There are many strategies/options that could've been taken, however I chose to stick with the four options outlined above. In hindsight, I really enjoyed this project and hope you enjoyed reading. For more information on Monte Carlo Simulations, I found this ![website](https://www.investopedia.com/terms/m/montecarlosimulation.asp) explained it well.
+
+Thank you for reading!
+
+© Denneya Muscat, 2022
+
+If you have any feedback or comments, feel free to get in touch!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denneyamuscat)[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denneyam/)
 
